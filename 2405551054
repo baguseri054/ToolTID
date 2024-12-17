@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HMTI Udayana</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"> <!-- Font Awesome for icons -->
+</head>
+<body>
+    <header>
+        <div class="Headings">
+            <h1>TI MART</h1>
+            <p>Melayani segala jenis kebutuhanmu!</p></p>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#Pesananmu">Pesananmu!</a></li>
+                <li><a href="#Transaksimu">Transaksimu!</a></li>
+                <li><a href="#Promo_Menarik">Promo Menarik!</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="pertama">
+            <h2>Welcome to TI MART</h2>
+            <p>Melayani segala jenis kebutuhanmu, service dan print juga bisa!</p>
+        </section>
+
+        <section id="kedua">
+            <h3>Tentang Kami</h3>
+            <p>Informasi lebih lanjut tentang kami, ada disini!</p>
+        </section>
+
+        <section id="ketiga">
+            <h2>Kami Melayani</h2>
+            <p>berikut adalah produk dan jasa yang kami layani. Tenang, stok masih banyak kok</p>
+            <div class="produk">
+                <img href="https://ng.hmtiudayana.id/" alt="logo hmti" height="100" width="100">
+                <img src="image2.jpg" alt="Gallery Image 2">
+                <img src="image3.jpg" alt="Gallery Image 3">
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; I Gusti Bagus Eri W | Tugas UTS TOOL TI D</p>
+        <div class="social-media">
+            <a href="#"><i class="fab fa-facebook"></i></a>
+            <a href="#"><i class="fab fa-twitter"></i></a>
+            <a href="#"><i class="fab fa-instagram"></i></a>
+        </div>
+    </footer>
+</body>
+</html>
